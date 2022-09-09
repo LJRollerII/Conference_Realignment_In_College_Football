@@ -6,6 +6,7 @@
 * [Hypothesis](#Header)
 * [Calculations](#Header)
 * [Conclusion](#Header)
+* [Limitations](#Header)
 * [Further Investigation](#Header)
 * [Data Sources & Tools](#Header)
 
@@ -45,6 +46,12 @@ Back to [Contents](#Header)
 Back to [Contents](#Header)
 
 # Conclusion
+
+Back to [Contents](#Header)
+
+# Limitations
+
+Due to the fact that we're analyzing the success of college football teams from the BCS Era (1998) to present, certain results may not completely reflect how successful some teams were in their previous conference(s) due to the 1998 season being the team's last season before moving to their current conference. There were also a few football programs that were established after 1998 that spent one year in a conference before moving to their current one.
 
 Back to [Contents](#Header)
 

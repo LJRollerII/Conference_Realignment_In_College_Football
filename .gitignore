@@ -12,6 +12,9 @@ Data/
 slides/
 Slides/
 
+spreadsheets/
+Spreadsheets/
+
 # Distribution / packaging
 .Python
 build/
