@@ -12,7 +12,7 @@
 
 # Background
 
-Conference realignment is one of the biggest topics in college sports. Many college athletic programs are switching conferences with the hopes of becoming more competitive in terms of recruiting, facilities, media exposure, and results on the field. One of the biggest benefits to conference realignment is the renuve the schools can possibly make over tv and media rights, no matter how the successful the program is. Majority of the time, football is the driving force to switching conferences and other sports within the athletic program don't usually have a say in the move (Due to the fact that football financially sports a lot of the non-revenue sports within the athletic department). Although considered amateur athletics, college football is a multi-billion dollar business.
+Conference realignment is one of the biggest topics in college sports. Many college athletic programs are switching conferences with the hopes of becoming more competitive in terms of recruiting, facilities, media exposure, and results on the field. One of the biggest benefits to conference realignment is the revenue the schools can possibly make over tv and media rights, no matter how the successful the program is. Majority of the time, football is the driving force to switching conferences and other sports within the athletic program don't usually have a say in the move (Due to the fact that football financially sports a lot of the non-revenue sports within the athletic department). Although considered amateur athletics, college football is a multi-billion dollar business.
 
 College realignment has allowed many football teams to gain financial success, but can we say the same when it comes to success on the field?
 
@@ -22,7 +22,7 @@ Back to [Contents](#Header)
 
 <u>Primary Question</u>
 
-Does changing conferences actually lead to better results or success on the field?
+Does changing conferences lead to better results or success on the field?
 
 
 <u>Secondary Questions</u>
