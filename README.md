@@ -3,7 +3,6 @@
 # Contents
 * [Background](#Header)
 * [Questions](#Header)
-* [Hypothesis](#Header)
 * [Calculations](#Header)
 * [Conclusion](#Header)
 * [Limitations](#Header)
@@ -43,9 +42,15 @@ Back to [Contents](#Header)
 
 # Calculations
 
+To determine which how successful teams were after changing conferences, we calculated the win percentage of every team overall, during conference play, and post-season play (Bowl Games/College Football Playoff). We would then compare the win percentage of each team when they were with their previous conference(s) to the win percentage with their current conference to determine if the team has had more success since the change.
+
+We also compared the number of championships (national & conference) teams won with their previous conference(s) to the number won with their current conference.
+
 Back to [Contents](#Header)
 
 # Conclusion
+
+[Conference Realignment in College Football](https://public.tableau.com/app/profile/lance.roller/viz/ConferenceRealignmentinCollegeFootball/ConferenceRealignmentinCollegeFootball?publish=yes)
 
 Back to [Contents](#Header)
 
